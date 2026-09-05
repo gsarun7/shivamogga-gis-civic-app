@@ -1,0 +1,62 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "district",
+        "name": "Shimoga District"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.20, 13.83],
+            [75.50, 13.83],
+            [75.50, 14.13],
+            [75.20, 14.13],
+            [75.20, 13.83]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "taluk",
+        "name": "Taluk A"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.22, 13.85],
+            [75.35, 13.85],
+            [75.35, 13.99],
+            [75.22, 13.99],
+            [75.22, 13.85]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "type": "taluk",
+        "name": "Taluk B"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.35, 13.90],
+            [75.48, 13.90],
+            [75.48, 14.05],
+            [75.35, 14.05],
+            [75.35, 13.90]
+          ]
+        ]
+      }
+    }
+  ]
+}
